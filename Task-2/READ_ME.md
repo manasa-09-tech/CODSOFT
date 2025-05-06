@@ -1,4 +1,4 @@
-'''#task-2 Basic Arithematic Operations in Python
+#task-2 Basic Arithematic Operations in Python
 
 ##Overview
       This program performs basic arithematic operations based on user input.It allows the user  to choose from a set of operations such as  
@@ -22,4 +22,4 @@
     3.save the both files in the same folder.
     4.open the terminal or command prompt
     5.Run the program using command 
-         python calculator.py'''
+         python calculator.py
